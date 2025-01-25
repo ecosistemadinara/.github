@@ -9,7 +9,7 @@ Our backend infrastructure is built on modern, scalable technologies:
 - **Runtime Environment**: Node.js v22.12.0
 - **Framework**: NestJS v10.0.0
 - **Database**: PostgreSQL v16
-- **ORM**: Prisma v6.2.1
+- **ORM**: TypeORM v0.3.20
 - **Language**: TypeScript v5.7.2
 
 ### Frontend
